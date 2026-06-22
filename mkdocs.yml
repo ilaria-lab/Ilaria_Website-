@@ -1,11 +1,13 @@
 site_name: Personal Website 
-theme: material
+theme: 
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
 
-features:
-    - navigation.tabs
-    - navigation.tabs.sticky
+
