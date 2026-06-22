@@ -5,3 +5,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+theme:
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
