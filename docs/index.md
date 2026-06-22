@@ -2,6 +2,10 @@
 
 Hi, I'm a Researcher at Imperial College London, focusing on cutting edge research on DNA data storage applications 
 
+!!! note
+
+    The main focus of my research is DNA origami 
+
 
 ## Patents and Publications 
 -	“Compositions of Binding Reagents and Methods of Use,” Filed 10 March 2025, Unpublished U.S. Provisional Patent Application – confidential until published.
