@@ -1,2 +1,7 @@
 site_name: Personal Website 
 theme: material
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
